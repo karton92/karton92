@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=karton92&color=green)<br/>
+
 ### 👨🏽‍💻 About me:
 
 I come from Poland, Cracow [🇵🇱] and I'm looking for my first job as a front-end developer. I am a self-taught programmer and I want to focus my future on programming.

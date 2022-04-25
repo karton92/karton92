@@ -12,10 +12,4 @@ Most of the time I learned programming from Udemy and YouTube.
 * GIT
 
 ### 🎲 My interests:
-* Terrarist
-* Bushcraft
-* Gym
-* Brewing
-* Climbing & Trekking
-* Football
-* Memes & Games
+Terrarist | Bushcraft | Gym | Brewing | Climbing & Trekking | Football | Memes & Games

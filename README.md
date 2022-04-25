@@ -7,10 +7,7 @@
 </p>
 
 ## 👨🏽‍💻 About me:
-Hi!<br/>
-I'm Michał and I come from Cracow, Poland. Now I'm looking for my first job as a front-end developer.<br/>
-I am a self-taught programmer and I want to focus my future on programming.<br/>
-Most of the time I learned programming from Udemy and YouTube.<br/><br/>
+<p>Hello! I'm Michał and I come from Cracow, Poland. Now I'm looking for my first job as a front-end developer. I am a self-taught programmer and I want to focus my future on programming. Most of the time I learned programming from Udemy and YouTube.<br/><br/></p>
 
 ## 💻 My stack:
 
@@ -44,7 +41,7 @@ Most of the time I learned programming from Udemy and YouTube.<br/><br/>
 <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="GIMP" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
-</p><br/><br/>
+</p><br/>
 
 ## 🎲 My interests:
 <p>

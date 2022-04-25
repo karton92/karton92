@@ -1,3 +1,5 @@
+### 👨🏽‍💻 About me:
+
 I come from Poland, Cracow [🇵🇱] and I'm looking for my first job as a front-end developer. I am a self-taught programmer and I want to focus my future on programming.
 Most of the time I learned programming from Udemy and YouTube.
 

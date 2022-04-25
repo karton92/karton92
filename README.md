@@ -1,13 +1,13 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=karton92&style=for-the-badge&color=green"/>
-  <a href="mailto:michalaugustyn92@gmail.com?subject=[GitHub]%20🔥%20Message%20o%20title&body=Hello%2C%0A%0AYour%20t%20message%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:michalaugustyn92@gmail.com?subject=[GitHub]%20🔥%20Message%20title&body=Hello%2C%0A%0AYour%20message%20here%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/michalaugustyn92/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://www.instagram.com/lesny_wloczykij/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  <a href="https://www.facebook.com/karton92/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ## 👨🏽‍💻 About me:
-<p>Hello! I'm Michał and I come from Cracow, Poland. Now I'm looking for my first job as a front-end developer. I am a self-taught programmer and I want to focus my future on programming. Most of the time I learned programming from Udemy and YouTube.<br/><br/></p>
+<p>Hello! I'm Michał and I come from Cracow, Poland. Now I looking for my first job as a front-end developer. I am a self-taught programmer and I want to focus my future on programming. Most of the time I learned programming from Udemy and YouTube.<br/><br/></p>
 
 ## 💻 My stack:
 

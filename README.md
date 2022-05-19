@@ -5,10 +5,12 @@
  <a href="https://www.facebook.com/karton92/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
-## 👨🏽‍💻 About me:
-<p>Hello! I'm Michał and I come from Cracow, Poland. Now I looking for my first job as a front-end developer. I am a self-taught programmer and I want to focus my future on programming. Most of the time I learned programming from Udemy and YouTube.<br/><br/></p>
+# 👨🏽‍💻 About me:
+<h3>Hello!<br/>
+I'm Michał and I come from Cracow, Poland. Now I looking for my first job as a front-end developer :)<br/>
+I am a self-taught programmer and I want to focus my future on programming. Most of the time I learned programming from Udemy and YouTube.</h3>
 
-## 💻 My stack:
+# 💻 My stack:
 
 ### My core:
 <p>
@@ -40,9 +42,16 @@
 <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="GIMP" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
+</p>
+
+### 📊 I learning from:
+<p>
+<img alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=ESLint&logoColor=white"/>
 </p><br/>
 
-## 🎲 My interests:
+# 🎲 My interests:
 <p>
 <img alt="Terrarist" src="https://img.shields.io/badge/-Terrarist-brightgreen?style=for-the-badge" />
 <img alt="Bushcraft" src="https://img.shields.io/badge/-Bushcraft-90a955?style=for-the-badge" />
@@ -54,11 +63,4 @@
 <img alt="Books" src="https://img.shields.io/badge/-Books-5bc0eb?style=for-the-badge" />
 <img alt="Memes" src="https://img.shields.io/badge/-Memes-c69dd2?style=for-the-badge" />
 <img alt="Games" src="https://img.shields.io/badge/-Games-d34e24?style=for-the-badge" />
-</p>
-
-## 📊 I learning from:
-<p>
-<img alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=ESLint&logoColor=white"/>
 </p>

@@ -6,9 +6,15 @@
 </p>
 
 # 👨🏽‍💻 About me:
-<h3>Hello!<br/>
-I'm Michał and I come from Cracow, Poland. Now I looking for my first job as a front-end developer :)<br/>
-I am a self-taught programmer and I want to focus my future on programming. Most of the time I learned programming from Udemy and YouTube.</h3>
+<h2>Hello!<br/>
+I'm an enthusiastic and goal-oriented Junior Frontend
+Developer with knowledge of HTML, CSS, JavaScript, React
+and NextJS seeking to utilize my actual technical skills and
+expertise to provide value to the future employer and
+contribute to create a lot of successful projects. I always
+aiming to take on new challenges and utilize my coding
+skills for developing new features and solving problems.
+</h2>
 
 # 💻 My stack:
 

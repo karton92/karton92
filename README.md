@@ -6,7 +6,7 @@
 </p>
 
 # 👨🏽‍💻 About me:
-<h2>Hello!<br/>
+<h4>Hello!<br/>
 I'm an enthusiastic and goal-oriented Junior Frontend
 Developer with knowledge of HTML, CSS, JavaScript, React
 and NextJS seeking to utilize my actual technical skills and
@@ -14,7 +14,7 @@ expertise to provide value to the future employer and
 contribute to create a lot of successful projects. I always
 aiming to take on new challenges and utilize my coding
 skills for developing new features and solving problems.
-</h2>
+</h4>
 
 # 💻 My stack:
 

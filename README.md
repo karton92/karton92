@@ -6,15 +6,16 @@
 
 # 👨🏽‍💻 About me:
 <h4>Hello!<br/>
- I'm an enthusiastic and goal-oriented Junior Frontend
+ <p align="justify">I'm an enthusiastic and goal-oriented Junior Frontend
  Developer with knowledge of HTML, CSS, JavaScript, React,
  and NextJS. I am seeking to utilize my technical skills and
  expertise to provide value to a future employer and
  contribute to the creation of successful projects. I always
  aim to take on new challenges and use my coding skills to
- develop new features and solve problems
+ develop new features and solve problems</p>
 </h4>
-
+ <br>
+ 
 # 💻 My stack:
 
 ### LANGUAGES & FRAMEWORKS
@@ -65,7 +66,8 @@
 <img alt="MS Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white"/>
 <img alt="" src=""/>
 </p>
-  
+   <br>
+   
 # 🎲 My interests:
 <p>
 <img alt="Terrarist" src="https://img.shields.io/badge/-Terrarist-brightgreen?style=for-the-badge" />

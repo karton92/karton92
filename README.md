@@ -5,16 +5,18 @@
 </p>
 
 # 👨🏽‍💻 About me:
-<h4>Hello!<br/>
- <p align="justify">I'm an enthusiastic and goal-oriented Junior Frontend
+<div align="justify">
+ <h3>Hello!<br/>
+ I'm an enthusiastic and goal-oriented Junior Frontend
  Developer with knowledge of HTML, CSS, JavaScript, React,
  and NextJS. I am seeking to utilize my technical skills and
  expertise to provide value to a future employer and
  contribute to the creation of successful projects. I always
  aim to take on new challenges and use my coding skills to
- develop new features and solve problems</p>
-</h4>
- <br>
+ develop new features and solve problems
+</h3>
+</div>
+<br>
  
 # 💻 My stack:
 
@@ -58,12 +60,12 @@
 <p>
 <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
-<img alt="Miro" src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white"/>
+ <img alt="Miro" src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white"/>
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white"/>
 <img alt="Teams" src="https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white"/>
 <img alt="MS Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white"/>
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
 <img alt="" src=""/>
 </p>
    <br>

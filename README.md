@@ -30,7 +30,7 @@ skills for developing new features and solving problems.
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="Redux Toolkit" src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="React Query" src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white"/>
-<img alt="Recoil" src="https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=whitee" />
+<img alt="Recoil" src="https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white" />
 <img alt="Zustand" src="https://camo.githubusercontent.com/dcec5d450b322b85ea6a005907d53ab0307119492a44e9db63d0141bded9bfba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7a757374616e642d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" />
 </p>
 

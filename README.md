@@ -6,13 +6,13 @@
 
 # 👨🏽‍💻 About me:
 <h4>Hello!<br/>
-I'm an enthusiastic and goal-oriented Junior Frontend
-Developer with knowledge of HTML, CSS, JavaScript, React
-and NextJS seeking to utilize my actual technical skills and
-expertise to provide value to the future employer and
-contribute to create a lot of successful projects. I always
-aiming to take on new challenges and utilize my coding
-skills for developing new features and solving problems.
+ I'm an enthusiastic and goal-oriented Junior Frontend
+ Developer with knowledge of HTML, CSS, JavaScript, React,
+ and NextJS. I am seeking to utilize my technical skills and
+ expertise to provide value to a future employer and
+ contribute to the creation of successful projects. I always
+ aim to take on new challenges and use my coding skills to
+ develop new features and solve problems
 </h4>
 
 # 💻 My stack:
